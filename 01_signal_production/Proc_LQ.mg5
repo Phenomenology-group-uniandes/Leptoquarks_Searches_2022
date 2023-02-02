@@ -1,0 +1,70 @@
+import model /mnt/x/UFOs/Mod2_VLQ_UFO/
+define lq = vlq vlq~
+define ta = ta+ ta-
+define qb = b b~ 
+define p = g u c d s u~ c~ d~ s~ b b~
+define j = g u c d s u~ c~ d~ s~
+generate p p > lq ta @0
+output /mnt/y/tau_lq/tau_lq_m_250 --no-jpeg
+
+output /mnt/y/tau_lq/tau_lq_m_500 --no-jpeg
+
+output /mnt/y/tau_lq/tau_lq_m_750 --no-jpeg
+
+output /mnt/y/tau_lq/tau_lq_m_1000 --no-jpeg
+
+output /mnt/y/tau_lq/tau_lq_m_1250 --no-jpeg
+
+output /mnt/y/tau_lq/tau_lq_m_1500 --no-jpeg
+
+output /mnt/y/tau_lq/tau_lq_m_1750 --no-jpeg
+
+output /mnt/y/tau_lq/tau_lq_m_2000 --no-jpeg
+
+output /mnt/y/tau_lq/tau_lq_m_2250 --no-jpeg
+
+output /mnt/y/tau_lq/tau_lq_m_2500 --no-jpeg
+
+generate p p > lq ta @0
+add process p p > lq ta j @1
+output /mnt/y/tau_lq_merg/tau_lq_merg_m_250 --no-jpeg
+
+output /mnt/y/tau_lq_merg/tau_lq_merg_m_500 --no-jpeg
+
+output /mnt/y/tau_lq_merg/tau_lq_merg_m_750 --no-jpeg
+
+output /mnt/y/tau_lq_merg/tau_lq_merg_m_1000 --no-jpeg
+
+output /mnt/y/tau_lq_merg/tau_lq_merg_m_1250 --no-jpeg
+
+output /mnt/y/tau_lq_merg/tau_lq_merg_m_1500 --no-jpeg
+
+output /mnt/y/tau_lq_merg/tau_lq_merg_m_1750 --no-jpeg
+
+output /mnt/y/tau_lq_merg/tau_lq_merg_m_2000 --no-jpeg
+
+output /mnt/y/tau_lq_merg/tau_lq_merg_m_2250 --no-jpeg
+
+output /mnt/y/tau_lq_merg/tau_lq_merg_m_2500 --no-jpeg
+
+generate p p > lq lq @0
+output /mnt/y/lq_lq/lq_lq_m_250 --no-jpeg
+
+output /mnt/y/lq_lq/lq_lq_m_500 --no-jpeg
+
+output /mnt/y/lq_lq/lq_lq_m_750 --no-jpeg
+
+output /mnt/y/lq_lq/lq_lq_m_1000 --no-jpeg
+
+output /mnt/y/lq_lq/lq_lq_m_1250 --no-jpeg
+
+output /mnt/y/lq_lq/lq_lq_m_1500 --no-jpeg
+
+output /mnt/y/lq_lq/lq_lq_m_1750 --no-jpeg
+
+output /mnt/y/lq_lq/lq_lq_m_2000 --no-jpeg
+
+output /mnt/y/lq_lq/lq_lq_m_2250 --no-jpeg
+
+output /mnt/y/lq_lq/lq_lq_m_2500 --no-jpeg
+

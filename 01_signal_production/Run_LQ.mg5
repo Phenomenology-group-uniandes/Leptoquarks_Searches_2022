@@ -1,0 +1,450 @@
+launch /mnt/y/lq_lq/lq_lq_m_250 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_250.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq/tau_lq_m_250 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_250.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq_merg/tau_lq_merg_m_250 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_250.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/lq_lq/lq_lq_m_500 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_500.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq/tau_lq_m_500 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_500.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq_merg/tau_lq_merg_m_500 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_500.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/lq_lq/lq_lq_m_750 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_750.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq/tau_lq_m_750 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_750.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq_merg/tau_lq_merg_m_750 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_750.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/lq_lq/lq_lq_m_1000 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1000.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq/tau_lq_m_1000 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1000.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq_merg/tau_lq_merg_m_1000 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1000.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/lq_lq/lq_lq_m_1250 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1250.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq/tau_lq_m_1250 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1250.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq_merg/tau_lq_merg_m_1250 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1250.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/lq_lq/lq_lq_m_1500 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1500.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq/tau_lq_m_1500 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1500.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq_merg/tau_lq_merg_m_1500 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1500.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/lq_lq/lq_lq_m_1750 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1750.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq/tau_lq_m_1750 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1750.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq_merg/tau_lq_merg_m_1750 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_1750.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/lq_lq/lq_lq_m_2000 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_2000.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq/tau_lq_m_2000 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_2000.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq_merg/tau_lq_merg_m_2000 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_2000.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/lq_lq/lq_lq_m_2250 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_2250.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq/tau_lq_m_2250 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_2250.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq_merg/tau_lq_merg_m_2250 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_2250.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/lq_lq/lq_lq_m_2500 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_2500.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq/tau_lq_m_2500 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_2500.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
+launch /mnt/y/tau_lq_merg/tau_lq_merg_m_2500 -m
+        14
+        shower = Pythia8
+        detector = Delphes
+        done
+        set nevents 50000
+        set cut_decays True
+        set ptb 30
+        set ptj 20
+        set ptl 20
+        set etab 2.5
+        /mnt/x/paramcards/paramcard_2500.dat
+        /mnt/x/pythia8_card.dat
+        /mnt/x/delphes_card_CMS-0.7bTag.dat
+        done
